@@ -1,0 +1,10 @@
+{
+    "Armor": [
+    {
+      "name": "Banded Iron Armor",
+      "durability": 100,
+      "dmg_reduction": 2,
+      "heal_per_move": 0
+    }
+    ]
+}

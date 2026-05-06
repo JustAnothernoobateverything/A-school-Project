@@ -1,0 +1,124 @@
+{
+  "items": [
+    {
+      "name": "Minor Health Potion",
+      "type": "Health",
+      "addbuff": 10
+    },
+    {
+      "name": "Health Potion",
+      "type": "Health",
+      "addbuff": 35
+    },
+    {
+      "name": "Strong Health Potion",
+      "type": "Health",
+      "addbuff": 70
+    },
+    {
+      "name": "Greater Health Potion",
+      "type": "Health",
+      "addbuff": 120
+    },
+    {
+      "name": "Superior Health Potion",
+      "type": "Health",
+      "addbuff": 160
+    },
+    {
+      "name": "Elixir of Life",
+      "type": "Health",
+      "addbuff": 200
+    },
+    {
+      "name": "Bandage",
+      "type": "Health",
+      "addbuff": 15
+    },
+    {
+      "name": "Healing Herb",
+      "type": "Health",
+      "addbuff": 25
+    },
+    {
+      "name": "Minor Mana Potion",
+      "type": "Magic",
+      "addbuff": 10
+    },
+    {
+      "name": "Mana Potion",
+      "type": "Magic",
+      "addbuff": 35
+    },
+    {
+      "name": "Strong Mana Potion",
+      "type": "Magic",
+      "addbuff": 70
+    },
+    {
+      "name": "Greater Mana Potion",
+      "type": "Magic",
+      "addbuff": 120
+    },
+    {
+      "name": "Superior Mana Potion",
+      "type": "Magic",
+      "addbuff": 160
+    },
+    {
+      "name": "Elixir of Arcana",
+      "type": "Magic",
+      "addbuff": 200
+    },
+    {
+      "name": "Magicka Crystal",
+      "type": "Magic",
+      "addbuff": 50
+    },
+    {
+      "name": "Runic Dust",
+      "type": "Magic",
+      "addbuff": 20
+    },
+    {
+      "name": "Minor Stamina Potion",
+      "type": "Stamina",
+      "addbuff": 10
+    },
+    {
+      "name": "Stamina Potion",
+      "type": "Stamina",
+      "addbuff": 35
+    },
+    {
+      "name": "Strong Stamina Potion",
+      "type": "Stamina",
+      "addbuff": 70
+    },
+    {
+      "name": "Greater Stamina Potion",
+      "type": "Stamina",
+      "addbuff": 120
+    },
+    {
+      "name": "Superior Stamina Potion",
+      "type": "Stamina",
+      "addbuff": 160
+    },
+    {
+      "name": "Elixir of Vigor",
+      "type": "Stamina",
+      "addbuff": 200
+    },
+    {
+      "name": "Energy Root",
+      "type": "Stamina",
+      "addbuff": 25
+    },
+    {
+      "name": "Warrior's Draught",
+      "type": "Stamina",
+      "addbuff": 85
+    }
+  ]
+}

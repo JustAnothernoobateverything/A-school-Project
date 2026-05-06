@@ -1,0 +1,84 @@
+{
+  "skills": [
+    {
+      "name": "Power Attack",
+      "buffmult": 0.75
+    },
+    {
+      "name": "Whirlwind Strike",
+      "buffmult": 0.8
+    },
+    {
+      "name": "Bash",
+      "buffmult": 0.88
+    },
+    {
+      "name": "Parry",
+      "buffmult": 0.85
+    },
+    {
+      "name": "Backstab",
+      "buffmult": 0.2
+    },
+    {
+      "name": "Cheap Shot",
+      "buffmult": 0.55
+    },
+    {
+      "name": "Smoke Bomb",
+      "buffmult": 0.95
+    },
+    {
+      "name": "Berserk",
+      "buffmult": 0.35
+    },
+    {
+      "name": "Crushing Blow",
+      "buffmult": 0.65
+    },
+    {
+      "name": "Ground Slam",
+      "buffmult": 0.7
+    },
+    {
+      "name": "Flurry",
+      "buffmult": 0.78
+    },
+    {
+      "name": "Riposte",
+      "buffmult": 0.72
+    },
+    {
+      "name": "Cripple",
+      "buffmult": 0.82
+    },
+    {
+      "name": "Execute",
+      "buffmult": 0.1
+    },
+    {
+      "name": "War Cry",
+      "buffmult": 0.9
+    },
+    {
+      "name": "Iron Will",
+      "buffmult": 0.98
+    },
+    {
+      "name": "Life Steal",
+      "buffmult": 0.85
+    },
+    {
+      "name": "Cursed Strike",
+      "buffmult": 0.5
+    },
+    {
+      "name": "Death Grasp",
+      "buffmult": 0.4
+    },
+    {
+      "name": "Soul Strike",
+      "buffmult": 0.45
+    }
+  ]
+}

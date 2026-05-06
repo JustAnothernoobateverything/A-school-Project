@@ -1,0 +1,144 @@
+{
+  "weapons": [
+    {
+      "name": "Iron Sword",
+      "durability": 80,
+      "damage": 35,
+      "damage_buff": 1.1,
+      "status_effect": "bleed"
+    },
+    {
+      "name": "Steel Dagger",
+      "durability": 60,
+      "damage": 20,
+      "damage_buff": 1.25,
+      "status_effect": "bleed"
+    },
+    {
+      "name": "Battle Axe",
+      "durability": 90,
+      "damage": 55,
+      "damage_buff": 1.05,
+      "status_effect": "bleed"
+    },
+    {
+      "name": "Flaming Longsword",
+      "durability": 75,
+      "damage": 45,
+      "damage_buff": 1.3,
+      "status_effect": "burn"
+    },
+    {
+      "name": "Ember Wand",
+      "durability": 40,
+      "damage": 60,
+      "damage_buff": 1.5,
+      "status_effect": "burn"
+    },
+    {
+      "name": "Molten Hammer",
+      "durability": 100,
+      "damage": 70,
+      "damage_buff": 1.2,
+      "status_effect": "burn"
+    },
+    {
+      "name": "Acid Whip",
+      "durability": 50,
+      "damage": 25,
+      "damage_buff": 1.4,
+      "status_effect": "corrosion"
+    },
+    {
+      "name": "Corroded Spear",
+      "durability": 65,
+      "damage": 40,
+      "damage_buff": 1.15,
+      "status_effect": "corrosion"
+    },
+    {
+      "name": "Rusted Flail",
+      "durability": 55,
+      "damage": 48,
+      "damage_buff": 1.1,
+      "status_effect": "corrosion"
+    },
+    {
+      "name": "Serrated Hunting Knife",
+      "durability": 70,
+      "damage": 22,
+      "damage_buff": 1.35,
+      "status_effect": "bleed"
+    },
+    {
+      "name": "Obsidian Scythe",
+      "durability": 85,
+      "damage": 62,
+      "damage_buff": 1.2,
+      "status_effect": "bleed"
+    },
+    {
+      "name": "Volcanic Staff",
+      "durability": 45,
+      "damage": 75,
+      "damage_buff": 1.6,
+      "status_effect": "burn"
+    },
+    {
+      "name": "Inferno Crossbow",
+      "durability": 70,
+      "damage": 50,
+      "damage_buff": 1.35,
+      "status_effect": "burn"
+    },
+    {
+      "name": "Toxic Rapier",
+      "durability": 60,
+      "damage": 30,
+      "damage_buff": 1.45,
+      "status_effect": "corrosion"
+    },
+    {
+      "name": "Corroding Mace",
+      "durability": 95,
+      "damage": 58,
+      "damage_buff": 1.1,
+      "status_effect": "corrosion"
+    },
+    {
+      "name": "Serrated War Sword",
+      "durability": 88,
+      "damage": 52,
+      "damage_buff": 1.18,
+      "status_effect": "bleed"
+    },
+    {
+      "name": "Bleeding Edge Halberd",
+      "durability": 92,
+      "damage": 65,
+      "damage_buff": 1.12,
+      "status_effect": "bleed"
+    },
+    {
+      "name": "Scorched Bow",
+      "durability": 55,
+      "damage": 38,
+      "damage_buff": 1.28,
+      "status_effect": "burn"
+    },
+    {
+      "name": "Blight Trident",
+      "durability": 78,
+      "damage": 47,
+      "damage_buff": 1.22,
+      "status_effect": "corrosion"
+    },
+    {
+      "name": "Rustwing Shuriken",
+      "durability": 35,
+      "damage": 15,
+      "damage_buff": 1.55,
+      "status_effect": "corrosion"
+    }
+  ]
+}

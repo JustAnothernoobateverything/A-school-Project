@@ -6,7 +6,7 @@
 #include <conio.h>//for movement controls
 #include <map>//for the status effects list
 #include <windows.h>//for waiting timers for combat
-//#include "struct.hpp"//all of the structs (can't add here because of r)
+//#include "struct.hpp"//all of the structs (can't add here because of redefinition error)
 #include "json.hpp"//the json parsing and writing libary (blessing)
 #include "map&movement.hpp"// holds the functions for the map and movement of the program
 #include "saving&loading.hpp"//has saving and loading functions
@@ -175,7 +175,7 @@ void combatmode(Character& p){
                 if ((p.magic[pick].compare((spells[i].name)))==0)
                 {
                     sp = spells[i];
-                }
+                }  
             }
             use_spell(sp,p,currentenemy);
             cout << "Press any key to continue..."<<endl;
